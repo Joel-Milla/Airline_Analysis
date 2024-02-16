@@ -9,6 +9,8 @@ This project is part of a data science course focused on using techniques to vis
 - Applies multiple plots and techniques to make univariate, bivariate, and multivariate analysis to draw conclusions from the data.
 
 ## Setup and installation
+You can see the Jupyter Notebook [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
+
 **Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
 To set up and show the notebook locally, follow these steps:
