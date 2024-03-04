@@ -1,6 +1,6 @@
 # Airline Analysis Project
 
-This project is part of a data science course focused on using techniques to visualize, analyze and make inferences from data. The purpose of this project is to clean and visualize data to derive insights from a database that contains information about flights.
+This project is focused on using techniques to visualize, analyze and make inferences from data, applying learnings from a data science course. The purpose of this project is to clean and visualize data to derive insights from a database that contains information about flights.
 
 ## Features
 
